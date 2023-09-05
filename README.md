@@ -1,5 +1,7 @@
 # Git Commands
 
+This GitHub project is a handy reference for essential Git commands. Git is a powerful version control system that helps developers track changes, collaborate on projects, and manage code effectively. Whether you're a beginner or an experienced developer, this collection of Git commands will assist you in your daily workflow.
+
 ```bash
 # Check the version of Git.
 git --version
