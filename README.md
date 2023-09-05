@@ -38,5 +38,5 @@ git commit -m "First Commit"
 # Push a local branch to a remote repository.
 # The -u flag sets up tracking for the branch.
 # Replace "Clone URL" with the URL of the remote repository.
-git push -u "Clone URL" main
+git push -u "Clone URL" master
 ```
