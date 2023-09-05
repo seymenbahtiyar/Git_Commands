@@ -22,6 +22,9 @@ cd "Folder Path"
 # Initialize a new Git repository.
 git init
 
+# Create a copy of a Git repository from a remote source onto your local machine.
+git clone "Clone URL"
+
 # Add all files in the working directory to the staging area for the next commit.
 git add .
 
